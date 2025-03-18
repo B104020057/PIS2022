@@ -16,3 +16,4 @@
 ## 02 Web Crawler
 
 - [EX02-01](EX02_01_My_Chatbot.ipynb)
+- [EX02-02](EX02_2.ipynb)
