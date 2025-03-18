@@ -16,5 +16,5 @@
 ## 02 Web Crawler
 
 - [EX02-01My_Chatbot](EX02_01_My_Chatbot.ipynb)
-- [EX02-02高雄紅橘線捷運車站位置查詢](EX02_2.ipynb)
+- [EX02-02高雄紅橘線捷運車站位置查詢](EX02_02高雄紅橘線捷運車站位置查詢.ipynb)
 - [EX02-03Yahoo新聞儲存Google試算表](EX02_03Yahoo新聞儲存Google試算表.ipynb)
