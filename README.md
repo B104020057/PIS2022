@@ -20,3 +20,4 @@
 - [EX02-03Yahoo新聞儲存Google試算表](EX02_03Yahoo新聞儲存Google試算表.ipynb)
 - [EX02-04DownloadPokemonImages](EX02_04DownloadPokemonImages.ipynb)
 - [EX02-05PTTGossiping](EX02_05_PTTGossiping.ipynb)
+- [EZ02-06開眼電影](EX02_06開眼電影.ipynb)
