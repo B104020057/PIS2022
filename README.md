@@ -22,3 +22,8 @@
 - [EX02-05PTTGossiping](EX02_05_PTTGossiping.ipynb)
 - [EX02-06開眼電影](EX02_06開眼電影.ipynb)
 - [EX02-07KKDay](EX02_07KKDay.ipynb)
+
+
+## 03 Data Analysis
+
+- [EX03_01_公司薪資概況Ⅰ](EX03_01_公司薪資概況Ⅰ.ipynb)
