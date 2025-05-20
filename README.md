@@ -40,3 +40,4 @@
 - [EX05-01Echo_Bot](EX05_01Echo_Bot.ipynb)
 - [EX05-02Ask_Gemini](EX05_02Ask_Gemini.ipynb)
 - [EX05-03Reply_Multi_type_Messages](EX05_03Reply_Multi_type_Messages.ipynb)
+- [EX05-04_Reply_Template_Messages](EX05_04_Reply_Template_Messages.ipynb)
