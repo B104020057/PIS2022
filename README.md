@@ -37,6 +37,8 @@
 ## HW03 Data Analysis
 - [HW03](hw03.ipynb)
 
+## 04 Machine Learning
+- [EX04-02客戶基本資料編碼](EX04_02.ipynb)
 
 ## 05 Web API
 
