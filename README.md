@@ -22,7 +22,8 @@
 - [EX02-05PTTGossiping](EX02_05_PTTGossiping.ipynb)
 - [EX02-06開眼電影](EX02_06開眼電影.ipynb)
 - [EX02-07KKDay](EX02_07KKDay.ipynb)
-
+## HW02 Web Crawler
+-[HW02](HW02.ipynb)
 
 ## 03 Data Analysis
 
@@ -44,3 +45,4 @@
 
 
 ## 06 Web System
+
