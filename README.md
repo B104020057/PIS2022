@@ -23,7 +23,7 @@
 - [EX02-06開眼電影](EX02_06開眼電影.ipynb)
 - [EX02-07KKDay](EX02_07KKDay.ipynb)
 ## HW02 Web Crawler
--[HW02](HW02.ipynb)
+- [HW02](HW02.ipynb)
 
 ## 03 Data Analysis
 
